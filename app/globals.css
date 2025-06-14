@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+#new,#review{
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+#new::-webkit-scrollbar,#review::-webkit-scrollbar{
+  display: none;
+}
