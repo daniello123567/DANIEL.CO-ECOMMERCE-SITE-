@@ -148,7 +148,7 @@ Draggable.create(conts,{
     <html>
       <title>Daniel.co</title>
       <link rel="shortcut icon" href="https://img.freepik.com/free-vector/shopping-cart-realistic_1284-6011.jpg" type="image/x-icon" />
-      <body className="overflow-hidden" id='body'>
+      <body id='body'>
         <Header/>
              {children}
               {showCart&&<Cart/>}
