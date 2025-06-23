@@ -188,7 +188,7 @@ const {setisPending} = ProductisPending()
         </div>
 
       </section>
-      <section className="relative md:w-[50%] w-full md:px-4 min-h-[448px] md:min-h-[428px] bg-cover bg-top xl:bg-[center_top_-1.6rem] bg-no-repeat bg-[url('/mobile-img.png')] md:bg-[url('/md-image.png')]">
+      <section className="relative md:w-[50%] w-full md:px-4 min-h-[448px] md:min-h-[428px] bg-cover bg-top xl:bg-[center_top_-1.6rem] bg-no-repeat bg-[url('https://next-ecommerce-shopco.vercel.app//images/header-res-homepage.png')] md:bg-[url('https://next-ecommerce-shopco.vercel.app//images/header-homepage.png')]">
         <div className='w-[104px] h-[104px]' >
         <svg id='stars' className='absolute right-7 xl:right-0 top-12 max-w-[76px] max-h-[76px] lg:max-w-24 lg:max-h-max-w-24 xl:max-w-[104px] xl:max-h-[104px] ' width="104" height="104" viewBox="0 0 104 104" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M52 0C53.7654 27.955 76.0448 50.2347 104 52C76.0448 53.7654 53.7654 76.0448 52 104C50.2347 76.0448 27.955 53.7654 0 52C27.955 50.2347 50.2347 27.955 52 0Z" fill="black" />
